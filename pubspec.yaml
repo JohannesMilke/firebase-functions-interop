@@ -19,7 +19,8 @@ dependencies:
       url: https://github.com/SupposedlySam/node-interop.git
       path: node_http
   firebase_admin_interop: 
-    git: git@github.com:SupposedlySam/firebase-admin-interop.git
+    git: 
+      url: https://github.com/JohannesMilke/firebase-admin-interop.git
 
 dev_dependencies:
   test: ^1.17.4
